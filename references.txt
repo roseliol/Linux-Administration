@@ -1,0 +1,19 @@
+https://computingforgeeks.com/linux-tmux-cheat-sheet/
+https://linuxhint.com/ubuntu_emacs_installation/
+https://www.networkworld.com/article/3305810/how-to-list-repositories-on-linux.html#:~:text=A%20Linux%20repository%20is%20a,software%20packages%20on%20Linux%20systems.
+https://linuxize.com/post/how-to-add-apt-repository-in-ubuntu/
+https://help.ubuntu.com/community/Repositories/CommandLine
+https://linuxize.com/post/install-configure-fail2ban-on-ubuntu-20-04/
+https://www.cyberciti.biz/faq/howto-install-vim-on-ubuntu-linux/
+https://www.youtube.com/watch?v=XCeUfORRMM8&ab_channel=BrainI%2FO
+https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7
+https://installati.one/centos/7/cowsay/
+https://linuxize.com/post/how-to-install-updates-on-centos/
+https://kerneltalks.com/howto/how-to-list-yum-repositories-in-rhel-centos/
+
+847 667 6707
+
+claims@claims.allstate.com
+
+
+https://www.learnc.net/c-tutorial/c-while-loop/

@@ -1,0 +1,21 @@
+NOTE: ALL REPOSITORIES FOR BOTH THE CENTOS 7 AND THE UBUNTU SERVERS WERE UPDATED 
+ON 2/27/2023
+
+BELOW ARE SOME OF THE DEPENDENCIES INSTALLED:
+
+Installing for dependencies:
+ ruby-irb                                              noarch                                    2.0.0.648-39.el7_9                                      updates                                     94 k
+ ruby-libs                                             x86_64                                    2.0.0.648-39.el7_9                                      updates                                    2.8 M
+ rubygem-bigdecimal                                    x86_64                                    1.2.0-39.el7_9                                          updates                                     85 k
+ rubygem-io-console                                    x86_64                                    0.4.2-39.el7_9                                          updates                                     56 k
+ rubygem-json                                          x86_64                                    1.7.7-39.el7_9                                          updates                                     82 k
+ rubygem-psych                                         x86_64                                    2.0.0-39.el7_9                                          updates                                     84 k
+ rubygem-rdoc                                          noarch                                    4.0.0-39.el7_9                                          updates                                    324 k
+ rubygems                                              noarch                                    2.0.14.1-39.el7_9                                       updates                                    215 k
+THE FOLLOWING REPOSITORIES WERE UPDATED ON 02/27/2023
+repo id                                                                            repo name                                                                                                        status
+base/7/x86_64                                                                      CentOS-7 - Base                                                                                                  10,072
+epel/x86_64                                                                        Extra Packages for Enterprise Linux 7 - x86_64                                                                   13,747
+extras/7/x86_64                                                                    CentOS-7 - Extras                                                                                                   515
+updates/7/x86_64                                                                   CentOS-7 - Updates                                                                                                4,706
+repolist: 29,040

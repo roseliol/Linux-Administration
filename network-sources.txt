@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/314675/how-to-redirect-output-of-an-entire-shell-script-within-the-script-itself
+https://www.redhat.com/sysadmin/linux-shell-redirection-pipelining
+https://www.cyberciti.biz/faq/how-to-write-the-output-into-the-file-in-linux/
+https://linuxopsys.com/topics/ethtool-command
+https://www.baeldung.com/linux/using-ethtool
+https://phoenixnap.com/kb/linux-ping-command-examples
+https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/
+https://phoenixnap.com/kb/nslookup-command
+https://www.redhat.com/sysadmin/five-network-commands
+
+
+
